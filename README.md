@@ -51,4 +51,4 @@ This repository grows alongside my knowledge. Whether you're studying for the A+
 
 ---
 
-📬 **Contact**: If you want to collaborate or have questions, reach out via [www.linkedin.com/in/Vanity URL name](#) or open an issue in this repo.
+📬 **Contact**: If you want to collaborate or have questions, reach out via [www.linkedin.com/in/junior-valerio-perdomo-6202a4138] or open an issue in this repo.
