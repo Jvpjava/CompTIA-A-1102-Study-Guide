@@ -51,6 +51,4 @@ This repository grows alongside my knowledge. Whether you're studying for the A+
 
 ---
 
-📬 **Contact**: If you want to collaborate or have questions, reach out via [LinkedIn](#) or open an issue in this repo.
-
-Let me know if you’d like this translated into an actual GitHub project structure or if you want it formatted for Notion, PDF, or LinkedIn portfolio posts too.
+📬 **Contact**: If you want to collaborate or have questions, reach out via [www.linkedin.com/in/Vanity URL name](#) or open an issue in this repo.
